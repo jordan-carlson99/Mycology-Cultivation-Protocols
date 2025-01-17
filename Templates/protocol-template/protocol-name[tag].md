@@ -6,11 +6,11 @@ This template provides a standardized format for documenting mushroom cultivatio
 
 **Version:** X.Y.Z (Following semantic versioning where X = Major version, Y = Minor version, Z = Patch level)  
 **Last Updated:** YYYY-MMM-DD  
-**Author:** Your name/handle
-**Contributors:** List additional contributors, if any
-**Difficulty Level:** Beginner/Intermediate/Advanced
-**Species Name:** Common Name (Scientific Name)
-**Protocol Name:** Descriptive name of technique
+**Author:** Your name/handle  
+**Contributors:** List additional contributors, if any  
+**Difficulty Level:** Beginner/Intermediate/Advanced  
+**Species Name:** Common Name (Scientific Name)  
+**Protocol Name:** Descriptive name of technique  
 **Total Time to Completion:** Estimated total time from start to finish
 
 ## Species Information
