@@ -17,9 +17,9 @@ This template provides a standardized format for documenting mushroom cultivatio
 
 Fill out the following table for each species/strain this protocol has been verified with:
 
-| Species / Strain Name           | Growth Parameters                                                                                                                                                                                                                                                                                                                                                                                                                                     | Yield | Cropping Cycle | Source(s) | [Optional] Yield (fruit/substrate) | [Optional] Common Issues |
-| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | -------------- | --------- | ---------------------------------- | ------------------------ |
-| Common Name _(Scientific Name)_ | **Spawn Run:**<br>- Time: duration<br>- Temperature: °C/°F<br>- Humidity: %<br>- CO₂: ppm<br>- FAE: frequency<br>- Light: intensity/duration<br>**Primordia Formation:**<br>- Time: duration<br>- Temperature: °C/°F<br>- Humidity: %<br>- CO₂: ppm<br>- FAE: frequency<br>- Light: intensity/duration<br>**Fruiting:**<br>- Time: duration<br>- Temperature: °C/°F<br>- Humidity: %<br>- CO₂: ppm<br>- FAE: frequency<br>- Light: intensity/duration | g/kg  | days/weeks     | citation  | g/kg or other unit                 | List common problems     |
+| Species / Strain Name           | Yield | Cropping Cycle | Source(s) | [Optional] Yield (fruit/substrate) | [Optional] Common Issues |
+| ------------------------------- | ----- | -------------- | --------- | ---------------------------------- | ------------------------ |
+| Common Name _(Scientific Name)_ | g/kg  | days/weeks     | citation  | g/kg or other unit                 | List common problems     |
 
 ## Safety Information
 
@@ -67,6 +67,8 @@ Fill out the following table for each species/strain this protocol has been veri
 - Include specifications where critical
 - Note any specific brands/qualities required
 
+### Optional Materials
+
 ### \[Optional] Recommended Suppliers
 
 - Supplier name
@@ -77,6 +79,8 @@ Fill out the following table for each species/strain this protocol has been veri
 
 ### Step X: Step Name
 
+#### Procedure:
+
 **Trigger/Timing:** What initiates this step or when to start / when does the previous step end
 **Growth Parameters:**
 
@@ -85,17 +89,25 @@ Fill out the following table for each species/strain this protocol has been veri
 - CO₂: level in ppm
 - Light: intensity/duration
 - Time: duration
-  **Quality Indicators:**
+
+**Quality Indicators:**
+
 - List visual indicators
 - Detail measurements needed
 - Describe success criteria
-  **Control Points:**
+
+**Control Points:**
+
 - List crucial factors
 - Detail potential failure points
 - Provide monitoring requirements
-  **Photo Documentation:**
+
+**Photo Documentation:**
+
 - Include clear photos of: - Starting conditions - Process in action - Success indicators - Common issues
-  **Troubleshooting:**
+
+**Troubleshooting:**
+
 - Common problems
 - Solutions
 - Prevention measures
@@ -141,9 +153,7 @@ For each alternative:
 
 ## References
 
-Format citations in APA style:
-
-- Author, A. A. (Year). Title of work. Location: Publisher.
+- Author, site name, and link
 - Include DOIs where available
 - Link to original sources when possible
 
