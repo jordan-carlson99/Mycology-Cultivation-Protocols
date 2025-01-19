@@ -81,6 +81,8 @@ Fill out the following table for each species/strain this protocol has been veri
 
 #### Procedure:
 
+**List the procedural steps required for this step with numbered formatting (1., 2., etc.)**
+
 **Trigger/Timing:** What initiates this step or when to start / when does the previous step end
 **Growth Parameters:**
 

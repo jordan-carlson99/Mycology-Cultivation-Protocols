@@ -8,7 +8,7 @@
 
 ## Metadata
 
-**Version:** 1.0.0  
+**Version:** 1.0.1  
 **Last Updated:** 2017-MAR-20  
 **Author:** Ziran
 **Contributors:** ComeBackKid, Munch, EvilMushroom, Shea25, Mushboy, Mateah, Meteja, SpitballJedi, Cronicr  
@@ -34,7 +34,7 @@
 
 ### Containment Requirements
 
-- Still Air Box (SAB) required for sterile# procedures
+- Still Air Box (SAB) required for sterile procedures
 - Clean workspace separated from living areas
 - Well-ventilated area
 
@@ -61,7 +61,7 @@
 
 ### Optional Materials
 
-If choosing to make a SGFC
+If choosing to make a SGFC - Shotgun Fruiting Chamber
 
 - Drill
 - 1/4" Drill Bit or Soldering Iron
