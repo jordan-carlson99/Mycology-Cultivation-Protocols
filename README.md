@@ -28,6 +28,12 @@ The library is a work in progress, by and for mycology enthusiasts, researchers,
 │   │   │   ├── data/
 │   │   │   └── sources/
 │   └── protocol-template-standards/
+├── research/
+│   ├── species/
+│   │   ├── species name/
+│   │   │   ├── species-name.md
+│   │   │   ├── sources/
+│   │   │   │   └── source.pdf
 ├── LICENSE
 ├── CONTRIBUTING.md
 └── README.md
