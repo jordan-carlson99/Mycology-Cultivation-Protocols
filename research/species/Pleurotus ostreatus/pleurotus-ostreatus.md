@@ -10,7 +10,7 @@
       - Biological efficiency: 61%
       - Innoculation rate: 2% (30g spawn:1.5kg bulk)
 - [Growth and yield performance of Pleurotus ostreatus on different substrates (2016)](<./sources/Growth%20and%20yield%20performance%20of%20Pleurotus%20ostreatus%20on%20different%20substrates%20(2016).pdf>)
-  - Different substrates minorly growth attributes (diameter, length, etc.)
+  - Different substrates minorly affect growth attributes (diameter, length, etc.)
     - Paper waste resulted in relatively better diameter and thickness of cap and stalk
   - Cotton seed was the most suitable bulk substrate of those tested
     - Processing method:
