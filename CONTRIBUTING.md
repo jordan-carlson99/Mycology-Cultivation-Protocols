@@ -35,6 +35,12 @@ This document outlines the standards and processes for contributing to the Mushr
 │   │   │   ├── data/
 │   │   │   └── sources/
 │   └── protocol-template-standards/
+├── research/
+│   ├── species/
+│   │   ├── species name/
+│   │   │   ├── species-name.md
+│   │   │   ├── sources/
+│   │   │   │   └── source.pdf
 ├── LICENSE
 ├── CONTRIBUTING.md
 └── README.md
