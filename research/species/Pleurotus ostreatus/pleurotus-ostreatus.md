@@ -1,0 +1,24 @@
+# Pleurotus ostreatus _(Gray osyter)_
+
+- [ISOLATION, PROPAGATION AND CULTIVATION OF GREY OYSTER MUSHROOM (Pleurotus ostreatus) (2024)](<./sources/ISOLATION,%20PROPAGATION%20AND%20CULTIVATION%20OF%20GREY%20OYSTERMUSHROOM%20(Pleurotus%20ostreatus)%20(2024).pdf>)
+  - Summary
+    - Isolation of mushroom tissue from fresh (same day) harvests colonizes fastest in both solid and liquid mediums
+    - 99% paddy grain (rice with hull intact), 1% calcium carbonate was the most suitable grain spawn of those tested
+    - 48% sawdust, 48% rice straw, 3% rice bran, and 1% calcium carbonate was the most suitable bulk substrate of those tested
+      - Colonization time: 14 days
+      - Fruiting time: 23 days
+      - Biological efficiency: 61%
+      - Innoculation rate: 2% (30g spawn:1.5kg bulk)
+- [Growth and yield performance of Pleurotus ostreatus on different substrates (2016)](<./sources/Growth%20and%20yield%20performance%20of%20Pleurotus%20ostreatus%20on%20different%20substrates%20(2016).pdf>)
+  - Different substrates minorly growth attributes (diameter, length, etc.)
+    - Paper waste resulted in relatively better diameter and thickness of cap and stalk
+  - Cotton seed was the most suitable bulk substrate of those tested
+    - Processing method:
+      - Dried then soaked until moisture content was 65-70%
+      - Innoculation rate: 8% (80g spawn: 1kg bulk)
+      - Colonization time: 14 days
+      - Pin time: 17 days
+      - Fruiting time: 27 days
+      - Number of fruits: 32
+      - Biological efficiency: 74%
+    - Paper waste and cotton seed colonized the fastest (14 days )
