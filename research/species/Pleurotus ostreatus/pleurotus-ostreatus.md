@@ -13,12 +13,11 @@
   - Different substrates minorly affect growth attributes (diameter, length, etc.)
     - Paper waste resulted in relatively better diameter and thickness of cap and stalk
   - Cotton seed was the most suitable bulk substrate of those tested
-    - Processing method:
-      - Dried then soaked until moisture content was 65-70%
-      - Innoculation rate: 8% (80g spawn: 1kg bulk)
-      - Colonization time: 14 days
-      - Pin time: 17 days
-      - Fruiting time: 27 days
-      - Number of fruits: 32
-      - Biological efficiency: 74%
-    - Paper waste and cotton seed colonized the fastest (14 days )
+    - Dried then soaked until moisture content was 65-70%
+    - Innoculation rate: 8% (80g spawn: 1kg bulk)
+    - Colonization time: 14 days
+    - Pin time: 17 days
+    - Fruiting time: 27 days
+    - Number of fruits: 32
+    - Biological efficiency: 74%
+  - Paper waste and cotton seed colonized the fastest (14 days)
