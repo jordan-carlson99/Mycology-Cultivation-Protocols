@@ -21,3 +21,12 @@
     - Number of fruits: 32
     - Biological efficiency: 74%
   - Paper waste and cotton seed colonized the fastest (14 days)
+- [Exploring agricultural waste substrate for enhancement of Pleurotus ostreatus cultivation](./sources/Exploring_agricultural_waste_substrate_for_enhance.pdf)
+  - PDA method:
+    - 200g potato, boiled and filtered for broth
+    - 20g glucose, and 20g agar added, topped up to 1L
+    - pressure cook for 30 minutes
+  - Primordia:
+    - Highest primorida count from saw dust, yam peel, oil palm empty bunch, and palm chaff combination
+  - Fruit:
+    - Higest fruit body count from oil palm empty bunch and saw dust mix
