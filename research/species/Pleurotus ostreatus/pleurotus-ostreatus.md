@@ -10,23 +10,25 @@
       - Biological efficiency: 61%
       - Innoculation rate: 2% (30g spawn:1.5kg bulk)
 - [Growth and yield performance of Pleurotus ostreatus on different substrates (2016)](<./sources/Growth%20and%20yield%20performance%20of%20Pleurotus%20ostreatus%20on%20different%20substrates%20(2016).pdf>)
-  - Different substrates minorly affect growth attributes (diameter, length, etc.)
-    - Paper waste resulted in relatively better diameter and thickness of cap and stalk
-  - Cotton seed was the most suitable bulk substrate of those tested
-    - Dried then soaked until moisture content was 65-70%
-    - Innoculation rate: 8% (80g spawn: 1kg bulk)
-    - Colonization time: 14 days
-    - Pin time: 17 days
-    - Fruiting time: 27 days
-    - Number of fruits: 32
-    - Biological efficiency: 74%
-  - Paper waste and cotton seed colonized the fastest (14 days)
+  - Summary
+    - Different substrates minorly affect growth attributes (diameter, length, etc.)
+      - Paper waste resulted in relatively better diameter and thickness of cap and stalk
+    - Cotton seed was the most suitable bulk substrate of those tested
+      - Dried then soaked until moisture content was 65-70%
+      - Innoculation rate: 8% (80g spawn: 1kg bulk)
+      - Colonization time: 14 days
+      - Pin time: 17 days
+      - Fruiting time: 27 days
+      - Number of fruits: 32
+      - Biological efficiency: 74%
+    - Paper waste and cotton seed colonized the fastest (14 days)
 - [Exploring agricultural waste substrate for enhancement of Pleurotus ostreatus cultivation](./sources/Exploring_agricultural_waste_substrate_for_enhance.pdf)
-  - PDA method:
-    - 200g potato, boiled and filtered for broth
-    - 20g glucose, and 20g agar added, topped up to 1L
-    - pressure cook for 30 minutes
-  - Primordia:
-    - Highest primorida count from saw dust, yam peel, oil palm empty bunch, and palm chaff combination
-  - Fruit:
-    - Higest fruit body count from oil palm empty bunch and saw dust mix
+  - Summary
+    - PDA method:
+      - 200g potato, boiled and filtered for broth
+      - 20g glucose, and 20g agar added, topped up to 1L
+      - pressure cook for 30 minutes
+    - Primordia:
+      - Highest primorida count from saw dust, yam peel, oil palm empty bunch, and palm chaff combination
+    - Fruit:
+      - Higest fruit body count from oil palm empty bunch and saw dust mix
